@@ -4,6 +4,6 @@
 if SHIELD_eviltwin || SHIELD_eviltwin_LEFTY
 
 config ZMK_KEYBOARD_NAME
-    default "Eternal Keypad"
+    default "eviltwin"
 
 endif

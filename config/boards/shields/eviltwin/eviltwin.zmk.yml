@@ -1,6 +1,6 @@
 file_format: "1"
 id: eviltwin
-name: Eternal Keypad
+name: eviltwin
 type: shield
 url: https://github.com/duckyb/eternal-keypad
 requires: [pro_micro]
