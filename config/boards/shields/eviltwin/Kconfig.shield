@@ -3,6 +3,3 @@
 
 config SHIELD_eviltwin
     def_bool $(shields_list_contains,eviltwin)
-
-config SHIELD_eviltwin_LEFTY
-    def_bool $(shields_list_contains,eviltwin_lefty)
