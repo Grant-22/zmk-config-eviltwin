@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "eternal_keypad.dtsi"
+#include "eviltwin.dtsi"
